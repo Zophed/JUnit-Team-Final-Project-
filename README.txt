@@ -24,4 +24,5 @@ Potential short comings of Fraction program:
 	performed to extend the usability of the program, simply to fix the broken
 	aspects that do not have the functionality necessary to run the tests. It is a
 	barebones approach, with little to no regard for the actual functionality or 
-	usability of such a fractions program. 
+	usability of such a fractions program.
+	
