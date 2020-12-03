@@ -96,6 +96,7 @@ public class Fraction {
 	
 	/*Supporting methods */
 	
+   
 	public int calculateGCD(int num, int den) {
 		if(num % den == 0)
 			return den;
